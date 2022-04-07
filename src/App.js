@@ -12,7 +12,7 @@ const App = () => {
       <div>
         <Router>
           <header>
-            <Link to="/">Adopt Me!a</Link>
+            <Link to="/">Adopt ho scritto una cosa errata Me!a</Link>
           </header>
           <Switch>
             <Route path="/details/:id">
